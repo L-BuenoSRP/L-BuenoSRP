@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="left" height="200" src="https://github.com/L-BuenoSRP/L-BuenoSRP/blob/ee011079b77fc3255a40b70740183474ffaa5551/assets/logo_LB.gif?raw=true"  />
+<img align="left" height="200" src="https://github.com/L-BuenoSRP/L-BuenoSRP/blob/main/assets/logo_LB.png?raw=true"  />
 
 ###
 
