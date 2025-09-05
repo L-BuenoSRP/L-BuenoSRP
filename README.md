@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ###
 
 <br clear="both">
-
+<br />
 <p align="left">Olá 👋<br><br>Sou o Leandro, profissional com mais de 8 anos de experiência em desenvolvimento de softwares inovadores e escaláveis, especializado em arquiteturas de microsserviços, cloud e soluções de alta disponibilidade. Atuação em projetos multi-cloud (AWS, Azure, GCP, Oracle Cloud), com forte foco em DevOps, modernização de aplicações e criação de arquiteturas disruptivas para suportar cenários de grande escala. Certificado em Microsoft Azure e em preparação para certificações multi-cloud.<br><br>🔭 I’m currently working on ...<br>-Trabalhando em diversas ideias e projetos para ampliar meu portfólio de projetos e o github, com o intuito de explorar arquiteturas, cases e trabalhar com tecnologias disruptivas.<br><br>🔍Next projects ... <br>- Meu Site de Portfólio com Projetos, Mapa de Skills e muito mais.<br>- Gerenciador de progresso de filmes e séries.<br>- Desenvolvimento e desenho de arquitetura de microsserviços de carrinho e estoque em marketplace.<br><br>🌱 I’m currently learning ...<br>- AWS & IA<br><br>📫 How to reach me: ...<br>- Linkedin<br>- Portfólio com integração com IA e comunicação direta comigo (Em Breve)<br><br>😄 Pronouns: ...<br>Ele<br><br>⚡ Fun fact: ...<br>- Apaixonado por tecnologia, automobilismo virtual e real, incluindo F1, WEC.</p>
 
 ###
